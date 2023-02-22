@@ -3,7 +3,7 @@ import numpy as np
 
 from attack import Attack
 from watermark import Watermark
-
+# program for watermarking 
 
 class DCT_Watermark(Watermark):
     def __init__(self):
